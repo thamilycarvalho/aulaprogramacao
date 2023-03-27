@@ -1,1 +1,38 @@
+*{
+margin:0;
+padding:0;
+}
+
+body {
+ fonte-family: 'poppings', sans-serif; 
+}
+
+.cabecalho {
+  backgroud-color:#3897cd;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  aling-items: center;
+  padding: 24px 0;
+  
+}
+
+.cabecalho-imagem {
+  width: 10%; 
+}
+
+.cabecalho-lista-item {
+  display: inline-block;
+  margin: 0 16px;
+  font-size: 16px;
+}
+
+.cabecalho-lista-item a {
+  text-decoration: nome;
+  color:white;
+}
+
+
+
+
 
